@@ -1,0 +1,1 @@
+dotnet pack ./src/Mimir.NumericInterval.fsproj -c Release
